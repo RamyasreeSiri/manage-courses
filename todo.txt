@@ -1,0 +1,12 @@
+Todo
+
+1. Author Administration
+2. Delete course
+3. Hide empty course list
+4. Unsaved changes message
+5. Client-side validation
+6. Handle 404's
+7. Show # course
+8. Pagination
+9. Sort course table by title by default
+10. Revert abandoned changes
